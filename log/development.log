@@ -29,3 +29,16 @@ Started GET "/pages/home.html" for 127.0.0.1 at Tue Sep 13 17:40:53 +0400 2011
   Processing by PagesController#home as HTML
 Rendered pages/home.html.erb within layouts/application (1.0ms)
 Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby187/lib/ruby/1.8/webrick/httpserver.rb:104)
+
+
+Started GET "/pages/help.html" for 127.0.0.1 at Tue Sep 13 18:36:41 +0400 2011
+  Processing by PagesController#help as HTML
+Rendered pages/help.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/help.html" for 127.0.0.1 at Tue Sep 13 18:39:41 +0400 2011
+  Processing by PagesController#help as HTML
+Rendered pages/help.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms)
