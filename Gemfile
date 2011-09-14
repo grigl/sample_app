@@ -37,4 +37,7 @@ end
 group :test do 
   gem 'rspec-rails'
   gem 'webrat'
+  gem 'autotest'
+  gem 'autotest-rails-pure'
+  gem 'autotest-growl'
 end
