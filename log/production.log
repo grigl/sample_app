@@ -1,0 +1,475 @@
+
+
+Started GET "/about" for 127.0.0.1 at Fri Sep 16 16:49:13 +0400 2011
+  Processing by PagesController#about as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (2.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/about.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 29ms (Views: 29.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/blueprint/screen.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:49:17 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/screen.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/images/logo.png?1315997515" for 127.0.0.1 at Fri Sep 16 16:49:17 +0400 2011
+
+ActionController::RoutingError (No route matches "/images/logo.png"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/custom.css?1316000082" for 127.0.0.1 at Fri Sep 16 16:49:17 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/custom.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/blueprint/print.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:49:17 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/print.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at Fri Sep 16 16:49:32 +0400 2011
+  Processing by PagesController#about as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (2.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/about.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/blueprint/screen.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:49:32 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/screen.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/images/logo.png?1315997515" for 127.0.0.1 at Fri Sep 16 16:49:32 +0400 2011
+
+ActionController::RoutingError (No route matches "/images/logo.png"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/custom.css?1316000082" for 127.0.0.1 at Fri Sep 16 16:49:32 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/custom.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/blueprint/print.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:49:32 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/print.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:49:34 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (2.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/home.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/blueprint/screen.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:49:34 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/screen.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/images/logo.png?1315997515" for 127.0.0.1 at Fri Sep 16 16:49:34 +0400 2011
+
+ActionController::RoutingError (No route matches "/images/logo.png"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/custom.css?1316000082" for 127.0.0.1 at Fri Sep 16 16:49:34 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/custom.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/blueprint/print.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:49:34 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/print.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at Fri Sep 16 16:49:38 +0400 2011
+  Processing by PagesController#about as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (3.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/about.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/blueprint/screen.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:49:38 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/screen.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/custom.css?1316000082" for 127.0.0.1 at Fri Sep 16 16:49:38 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/custom.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/images/logo.png?1315997515" for 127.0.0.1 at Fri Sep 16 16:49:38 +0400 2011
+
+ActionController::RoutingError (No route matches "/images/logo.png"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/blueprint/print.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:49:38 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/print.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at Fri Sep 16 16:49:39 +0400 2011
+  Processing by PagesController#contact as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (2.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/contact.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/images/logo.png?1315997515" for 127.0.0.1 at Fri Sep 16 16:49:39 +0400 2011
+
+ActionController::RoutingError (No route matches "/images/logo.png"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/blueprint/screen.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:49:39 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/screen.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/custom.css?1316000082" for 127.0.0.1 at Fri Sep 16 16:49:39 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/custom.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/blueprint/print.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:49:39 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/print.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:49:45 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (4.0ms)
+Rendered layouts/_header.html.erb (3.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/home.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/blueprint/screen.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:49:45 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/screen.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/custom.css?1316000082" for 127.0.0.1 at Fri Sep 16 16:49:45 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/custom.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/images/logo.png?1315997515" for 127.0.0.1 at Fri Sep 16 16:49:45 +0400 2011
+
+ActionController::RoutingError (No route matches "/images/logo.png"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/blueprint/print.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:49:45 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/print.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:51:55 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (3.0ms)
+Rendered layouts/_header.html.erb (2.0ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Rendered pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/blueprint/screen.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:51:55 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/screen.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/custom.css?1316000082" for 127.0.0.1 at Fri Sep 16 16:51:55 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/custom.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/images/logo.png?1315997515" for 127.0.0.1 at Fri Sep 16 16:51:55 +0400 2011
+
+ActionController::RoutingError (No route matches "/images/logo.png"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/blueprint/print.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:51:55 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/print.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:51:56 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (4.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/home.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/custom.css?1316000082" for 127.0.0.1 at Fri Sep 16 16:51:56 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/custom.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/blueprint/screen.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:51:56 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/screen.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/images/logo.png?1315997515" for 127.0.0.1 at Fri Sep 16 16:51:56 +0400 2011
+
+ActionController::RoutingError (No route matches "/images/logo.png"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/blueprint/print.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:51:56 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/print.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:51:58 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (3.0ms)
+Rendered layouts/_header.html.erb (2.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/home.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/blueprint/screen.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:52:04 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/screen.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:54:25 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (1.0ms)
+Rendered layouts/_header.html.erb (2.0ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Rendered pages/home.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 21ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:54:26 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (2.0ms)
+Rendered layouts/_footer.html.erb (2.0ms)
+Rendered pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 8ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:54:26 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (2.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:54:26 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (3.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 9ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:54:27 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (2.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 8ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:54:27 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (0.0ms)
+Rendered layouts/_header.html.erb (0.0ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 16ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:54:27 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (3.0ms)
+Rendered layouts/_footer.html.erb (3.0ms)
+Rendered pages/home.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 11ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Fri Sep 16 16:54:27 +0400 2011
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (1.0ms)
+Rendered layouts/_header.html.erb (1.0ms)
+Rendered layouts/_footer.html.erb (0.0ms)
+Rendered pages/home.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/help" for 127.0.0.1 at Fri Sep 16 16:56:00 +0400 2011
+  Processing by PagesController#help as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (2.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/help.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/blueprint/screen.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:56:00 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/screen.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/stylesheets/custom.css?1316000082" for 127.0.0.1 at Fri Sep 16 16:56:01 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/custom.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/images/logo.png?1315997515" for 127.0.0.1 at Fri Sep 16 16:56:01 +0400 2011
+
+ActionController::RoutingError (No route matches "/images/logo.png"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/blueprint/print.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:56:01 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/print.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/help" for 127.0.0.1 at Fri Sep 16 16:56:13 +0400 2011
+  Processing by PagesController#help as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+Rendered layouts/_header.html.erb (1.0ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Rendered pages/help.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/blueprint/screen.css?1307369092" for 127.0.0.1 at Fri Sep 16 16:56:15 +0400 2011
+
+ActionController::RoutingError (No route matches "/stylesheets/blueprint/screen.css"):
+  
+
+Rendered C:/Ruby187/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
